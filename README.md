@@ -27,12 +27,12 @@ This repository documents my progress from a complete beginner to an advanced pr
 
 ### Phase 1: Java Fundamentals
 
-* [done✅] Variables & Data Types
-* [ ] Input & Output
-* [ ] Operators
-* [ ] Conditional Statements
-* [ ] Loops
-* [ ] Functions/Methods
+* [x] Variables & Data Types
+* [x] Input & Output
+* [x] Operators
+* [x] Conditional Statements
+* [x] Loops
+* [x] Functions/Methods
 * [ ] Arrays
 * [ ] Strings
 * [ ] Object-Oriented Programming
