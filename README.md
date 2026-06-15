@@ -27,7 +27,7 @@ This repository documents my progress from a complete beginner to an advanced pr
 
 ### Phase 1: Java Fundamentals
 
-* [ ] Variables & Data Types
+* [done✅] Variables & Data Types
 * [ ] Input & Output
 * [ ] Operators
 * [ ] Conditional Statements
@@ -96,8 +96,8 @@ DSA-Journey-Java/
 
 | Topic               | Status         |
 | ------------------- | -------------- |
-| Java Basics         | 🔄 In Progress |
-| Arrays              | ⬜ Not Started  |
+| Java Basics         | ✅ Done.        |
+| Arrays              | 🔄 In Progress  |
 | Strings             | ⬜ Not Started  |
 | Linked Lists        | ⬜ Not Started  |
 | Stack               | ⬜ Not Started  |
